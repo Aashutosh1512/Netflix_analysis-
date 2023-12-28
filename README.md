@@ -1,5 +1,9 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREUV-JkapSXBN-j4bHCU3rLYx_ashZzRb2F-F0fF-sqh_e-JZLFgmcbDzL4rZivveDJgYn8dSnf1eTP8fLmXjMuJUvDAmLJhtKUaTV_XkH5djh6DjniMOv&usqp=CAE))</p>
+<p align="center">
+  <img src="[https://i.ibb.co/Q81WwRN/92399716.jpg](https://www.google.com/url?url=https://driffle.com/en/netflix-35-blr-gift-card-br-digital-code-p9888616%3Fcurrency%3DINR%26country%3DIN%26srsltid%3DAfmBOoqnydeiXJLguRUpfVFv0gd9O4h-PDkCWJCPOf1AKxs3wiZfKFP11-8&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwjlzeGd67GDAxUCja8BHblDBP8Q1SkIrwgoAA&usg=AOvVaw19u10eWAYZC7q9I6Wc1AG6)" alt="Pic">
+</p>
+
+
 
 **Tools Used:** Excel, MySQL, Tableau
 
