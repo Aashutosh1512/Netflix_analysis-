@@ -1,7 +1,29 @@
 # <p align="center">Netflix Shows and Movies Project</p>
 <p align="center">
-  <img src="[https://i.ibb.co/Q81WwRN/92399716.jpg](https://www.google.com/url?url=https://driffle.com/en/netflix-35-blr-gift-card-br-digital-code-p9888616%3Fcurrency%3DINR%26country%3DIN%26srsltid%3DAfmBOoqnydeiXJLguRUpfVFv0gd9O4h-PDkCWJCPOf1AKxs3wiZfKFP11-8&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwjlzeGd67GDAxUCja8BHblDBP8Q1SkIrwgoAA&usg=AOvVaw19u10eWAYZC7q9I6Wc1AG6)" alt="Pic">
+  <span style="font-size: 36px; color: #E50914; font-weight: bold; font-family: 'Arial', sans-serif;">
+    N
+    <span style="animation: bounce 1.5s infinite;">e</span>
+    <span style="animation: bounce 1.5s infinite; animation-delay: 0.2s;">t</span>
+    <span style="animation: bounce 1.5s infinite; animation-delay: 0.4s;">f</span>
+    <span style="animation: bounce 1.5s infinite; animation-delay: 0.6s;">l</span>
+    <span style="animation: bounce 1.5s infinite; animation-delay: 0.8s;">i</span>
+    <span style="animation: bounce 1.5s infinite; animation-delay: 1.0s;">x</span>
+  </span>
 </p>
+
+<style>
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+</style>
 
 
 
