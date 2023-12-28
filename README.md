@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
+# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREUV-JkapSXBN-j4bHCU3rLYx_ashZzRb2F-F0fF-sqh_e-JZLFgmcbDzL4rZivveDJgYn8dSnf1eTP8fLmXjMuJUvDAmLJhtKUaTV_XkH5djh6DjniMOv&usqp=CAE))</p>
 
 **Tools Used:** Excel, MySQL, Tableau
 
@@ -9,9 +9,9 @@
 
 [Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
 
-- **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
+- **Business Problem:** Netflix seeks actionable insights from their extensive dataset of shows and movies (approximately 82k rows). The challenge lies in effectively analyzing this vast data to uncover meaningful patterns and trends for their subscribers
 
-- **How I Plan On Solving the Problem:** In helping Netflix gather valuable insights from their extensive movies and shows dataset, I will be utilizing SQL and a data visualization tool like Tableau to extract relevant information, and conduct insightful analyses. By leveraging SQL's functions, I can uncover key metrics such as viewer ratings, popularity trends, genre preferences, and viewership patterns. Once the data has been extracted and prepared, I will leverage Tableau to present the findings. This will allow for interactive exploration of the data, enabling stakeholders at Netflix to gain actionable insights through visually appealing charts, graphs, and interactive visualizations. I plan on creating a dynamic dashboard in Tableau that enables users to delve into specific movie genres, viewer demographics, or geographical regions.
+- **How I Plan On Solving the Problem:**  I propose utilizing SQL and Tableau for data analytics. Using SQL's functions, I'll extract key metrics like viewer ratings, genre preferences, and viewership patterns. Tableau will then be employed to present findings through interactive visualizations, allowing stakeholders to explore data dynamically. The end goal is a user-friendly Tableau dashboard offering insights into specific genres, viewer demographics, and geographical regions.
 
 ## Questions I Wanted To Answer From the Dataset:
 
